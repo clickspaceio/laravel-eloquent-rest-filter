@@ -1,0 +1,17 @@
+{
+    "name": "clickspaceio/laravel-eloquent-rest-filter",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Clickspace\\LaravelEloquentRestFilter\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Clickspace\\LaravelEloquentRestFilter\\Test\\": "tests/"
+        }
+    }
+}
